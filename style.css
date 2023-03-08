@@ -1,0 +1,15 @@
+body
+{
+    background-color: rgb(164, 212, 255);
+}
+#score
+{
+    font-size: larger;
+    float: left;
+}
+
+#timer
+{
+    font-size: larger;
+    float: right;
+}
